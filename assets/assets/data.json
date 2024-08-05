@@ -7,7 +7,7 @@
             "text": "Connect Me",
             "link": "https://www.linkedin.com/in/hayko1995/"
         },
-        "image": "assets/images/profile-image.png",
+        "image": "https://drive.google.com/file/d/1foMp9_PtxOD0RHwiPmzBgfv411guB-6b/view?usp=sharing",
         "contacts": [
             {
                 "icon": "assets/icons/linkedin.svg",
@@ -187,7 +187,7 @@
                     "Payment-Gateway",
                     "E-Wallet"
                 ],
-                "image": "https://api.laam.my.id/assets/images/projects/wigo-app.png",
+                "image": "crm.png",
                 "link": "https://www.evraz.com/en/"
             },
             {
