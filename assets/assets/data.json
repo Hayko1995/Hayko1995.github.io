@@ -7,15 +7,15 @@
             "text": "Connect Me",
             "link": "https://www.linkedin.com/in/hayko1995/"
         },
-        "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/profile-image.png",
+        "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/profile-image.png",
         "contacts": [
             {
-                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/linkedin.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/linkedin.svg",
                 "type": "linkedin",
                 "link": "https://www.linkedin.com/in/hayko1995/"
             },
             {
-                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/github.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/github.svg",
                 "type": "github",
                 "link": "https://github.com/hayko1995"
             }
@@ -24,28 +24,28 @@
     "aboutMe": {
         "title": "Interested in learning more about me?",
         "description": "🚀 System Developer & Team Lead \nWith 10+ years in mobile app development, I've evolved into a Mobile Developer and Team Lead. I'm passionate about clean code and effective team collaboration, striving for top-tier mobile apps. Beyond coding, I'm an educator, dedicated to sharing knowledge and inspiring others. Let's connect to innovate in the mobile app world!\n\n✍️ Tech Enthusiast & Educator 📚\nIn addition to app development, I'm an enthusiastic writer and educator. My recent Medium articles delve into boosting productivity with Flutter modularization. I'm deeply committed to creating a supportive learning environment and have guest taught, igniting students' coding passion. Connect with me for tech innovation and collaborative learning!\n\nBy the way, I'm available for freelance projects, so please feel free to get in touch and introduce yourself! I assure you, I'm approachable and friendly 😉",
-        "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/profile_phot.jpg"
+        "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/profile_phot.jpg"
     },
     "services": {
         "text": "The services I am can help you:",
         "items": [
             {
-                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/mobile.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/mobile.svg",
                 "title": "Mobile and Desktop Development",
                 "description": "Create seamless mobile experiences, custom solutions"
             },
             {
-                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/fullstack.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/fullstack.svg",
                 "title": "Full-Stack Development",
                 "description": "End-to-end solutions, frontend to backend development"
             },
             {
-                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/consulting.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/consulting.svg",
                 "title": "Development Consulting",
                 "description": "Expert guidance for successful project outcomes"
             },
             {
-                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/robot.svg",
+                "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/robot.svg",
                 "title": "Robot Development",
                 "description": "Expert guidance for successful project outcomes"
             }
@@ -56,57 +56,57 @@
         "items": [
             {
                 "text": "Python",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/python.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/python.png",
                 "isBlack": false
             },
             {
                 "text": "PostgreSQL",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/postgresql.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/postgresql.png",
                 "isBlack": false
             },
             {
                 "text": "MYSQL",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/mysql.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/mysql.png",
                 "isBlack": false
             },
             {
                 "text": "AWS",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/AWS.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/AWS.png",
                 "isBlack": false
             },
             {
                 "text": "docker",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/docker.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/docker.png",
                 "isBlack": true
             },
             {
                 "text": "k8s",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/k8s.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/k8s.png",
                 "isBlack": true
             },
             {
                 "text": "ROS",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/rosLarge.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/images/rosLarge.png",
                 "isBlack": true
             },
             {
                 "text": "Isaac",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/Isaac.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/images/Isaac.png",
                 "isBlack": true
             },
             {
                 "text": "OpenCV",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/opencv.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/opencv.png",
                 "isBlack": true
             },
             {
                 "text": "Flutter",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/flutter.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/flutter.png",
                 "isBlack": false
             },
             {
                 "text": "Teaching",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/teaching.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/teaching.png",
                 "isBlack": true
             }
         ]
@@ -157,7 +157,7 @@
                     "Git",
                     "Docker"
                 ],
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/finflow.jpg",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/finflow.jpg",
                 "link": "https://play.google.com/store/apps/details?id=com.boosigh.finflow"
             },
             {
@@ -172,7 +172,7 @@
                     "Prometeus",
                     "Docker"
                 ],
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/Telegrambot.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/Telegrambot.png",
                 "link": ""
             },
             {
@@ -187,7 +187,7 @@
                     "Payment-Gateway",
                     "E-Wallet"
                 ],
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/crm.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/crm.png",
                 "link": "https://www.evraz.com/en/"
             },
             {
@@ -203,7 +203,7 @@
                     "Pytorch",
                     "Tensorflow"
                 ],
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/morinet.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/morinet.png",
                 "link": "https://moorinet.ru/"
             }, 
             {
@@ -220,7 +220,7 @@
                     "YOLO",
                     "Jetson"
                 ],
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/puzl_logo_main.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/puzl_logo_main.png",
                 "link": "https://moorinet.ru/"
             },
             {
@@ -237,7 +237,7 @@
                     "Depth Camera",
                     "Lidar"
                 ],
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/robot.jpg",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/images/robot.jpg",
                 "link": ""
             }
         ]
@@ -249,12 +249,12 @@
             "text": "You can also find me on these platforms!",
             "items": [
                 {
-                    "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/linkedin.svg",
+                    "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/linkedin.svg",
                     "type": "linkedin",
                     "link": "https://www.linkedin.com/in/hayko1995/"
                 },
                 {
-                    "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/icons/github.svg",
+                    "icon": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/icons/github.svg",
                     "type": "github",
                     "link": "https://github.com/hayko1995"
                 }
