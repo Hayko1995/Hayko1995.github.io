@@ -118,11 +118,6 @@
                 "text": "LangChain",
                 "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/langchain.jpeg",
                 "isBlack": false
-            },
-            {
-                "text": "LangGraph",
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/langgraph.png",
-                "isBlack": false
             }
         ]
     },
@@ -181,7 +176,7 @@
                     "Git",
                     "Docker"
                 ],
-                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/yootech_chatbot.png",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/yootech_chatbot.jpeg",
                 "link": ""
             },
             {
