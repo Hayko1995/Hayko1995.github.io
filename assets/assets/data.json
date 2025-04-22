@@ -108,12 +108,34 @@
                 "text": "Teaching",
                 "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/teaching.png",
                 "isBlack": true
+            },
+            {
+                "text": "FastAPI",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/fastapi.png",
+                "isBlack": false
+            },
+            {
+                "text": "LangChain",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/langchain.jpeg",
+                "isBlack": false
+            },
+            {
+                "text": "LangGraph",
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/langgraph.png",
+                "isBlack": false
             }
         ]
     },
     "experiences": {
         "text": "Here's a concise overview of my most recent experiences:",
         "items": [
+            {
+                "logo": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/yootech_logo.jpg",
+                "title": "Senior Python Developer",
+                "description": "Innovative LLM Chatbot Developer | Automation Specialist\nAt Yootech, I specialize in creating state-of-the-art AI-driven chatbot solutions powered by advanced technologies like FastAPI, LangChain, LangSmith, and LangGraph. My focus is on building intelligent, conversational systems that enhance user experiences and streamline business processes.\n\nWith a strong background in developing automation solutions, I thrive on simplifying complex workflows, integrating cutting-edge tools, and delivering impactful results for modern enterprises. I am passionate about leveraging technology to transform ideas into actionable solutions that drive efficiency and innovation.",
+                "startDate": "2024-10-01",
+                "endDate": "2025-04-30"
+            },
             {
                 "logo": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/rpe_controls_logo.jpg",
                 "title": "Senior Software Engineer",
@@ -147,6 +169,21 @@
     "projects": {
         "text": "Here are a few of the noteworthy projects I've developed:",
         "items": [
+            {
+                "name": "Make AI Chatbot",
+                "description": "Developed an advanced AI-powered chatbot solution using LangChain, LangSmith, and LangGraph for intelligent conversation management. The system integrates with FastAPI to provide a robust backend infrastructure, enabling sophisticated natural language processing and context-aware responses. This project demonstrates cutting-edge AI implementation for enterprise-level automation and customer interaction.",
+                "technologies": [
+                    "Python",
+                    "FastAPI",
+                    "LangChain",
+                    "LangSmith",
+                    "LangGraph",
+                    "Git",
+                    "Docker"
+                ],
+                "image": "https://raw.githubusercontent.com/Hayko1995/Hayko1995.github.io/main/assets/assets/images/yootech_chatbot.png",
+                "link": ""
+            },
             {
                 "name": "FINFLOW",
                 "description": "Finflow is a mobile app designed to help users track and manage their budget effortlessly. It offers intuitive features like expense tracking, budget planning, and financial insights, all presented in a user-friendly interface. With real-time updates and customizable categories, Finflow helps you stay on top of your spending and make informed financial decisions.",
